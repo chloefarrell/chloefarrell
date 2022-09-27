@@ -27,3 +27,4 @@
     ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     
+[![Chloes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloefarrell)](https://github.com/chloefarrell/github-readme-stats)
