@@ -27,3 +27,5 @@
     ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloefarrell)](https://github.com/chloefarrell/github-readme-stats&show_icons=true&theme=radical)
+![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloefarrell&show_icons=true&theme=radical)
